@@ -1,0 +1,175 @@
+body {
+  background-color:beige;
+    padding: 20px;
+}
+nav {
+  background: lightgray;   
+  text-align: center;     
+  padding: 10px;
+  border-radius: 0;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  display: inline;
+  margin: 0 5px;
+}
+nav a {
+  background:darkred;    
+  color: white;
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius:0;
+}
+p {
+  text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h1 {
+  font-family: Times New Roman, serif;
+}
+.center-image {
+  display: block;    
+  margin: 0 auto;    
+  width: 60%;        
+  max-width: 400px;   
+}
+.quote {
+  color: darkred;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  text-align: center;
+  margin: 20px auto;
+  width: 80%;
+}
+
+.spells-page {
+  background-color: #e8c472
+}
+
+.quidditch-page {
+ background-color: #e8c472
+}
+    
+main{
+     padding: 10px;
+      margin: 10px;
+}
+
+header{
+text-align: center
+}
+
+
+article img {
+  width: 120px;
+  height: auto;
+  margin: 10px;
+}
+footer{
+  clear: both; 
+}
+
+dl {
+  text-align: left;      
+  margin: 10px auto;
+  width: 80%;            
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+dt {
+  font-weight: bold;     
+}
+
+dd {
+  margin-left: 10px;      
+}
+
+.houses-section {
+  text-align: center;
+
+}
+
+.house-box{
+background-color:lightgray; 
+  margin: 15px auto;
+  padding: 15px;
+  border-radius: 0;
+  max-width: 800px;
+}
+
+.character-list article {
+  background-color: indianred; 
+  margin: 15px auto;
+  padding: 15px;
+  border-radius: 0;
+  max-width: 800px;
+  text-align: center;
+}
+
+.character-list h2 {
+    margin-bottom: 5px;
+  }
+
+.intro-text {
+  background-color: indianred;
+  padding: 10px 15px;
+  margin: 15px auto;
+  max-width: 80%;
+  text-align: center;
+  border-radius: 0;
+  font-style: italic;
+  font-weight: bold
+}
+
+
+  .quidditch-two-columns {
+    text-align: center;
+  }
+  .quidditch-page article {
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightgray;
+    border: 2px solid darkred;
+    border-radius: 0;
+    width: 45%;
+    margin: 10px;
+    padding: 15px;
+    text-align: left;
+    box-sizing: border-box;
+    height: 350px; 
+  }
+
+  .quidditch-page article h2 {
+    text-align: center;
+  }
+
+  .quidditch-page img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid darkred;
+    border-radius: 5px;
+    background-color: lightgray;
+    padding: 20px;
+  }
+    
+.popular-teams {
+  background-color: lightgray;
+  border: 2px solid darkred;
+  border-radius: 0;
+  max-width: 60%;
+  margin: 30px auto;
+  padding: 15px;
+  text-align: center;
+}
+
+
+
+
+
